@@ -1,16 +1,14 @@
-## Hi there 👋
+## Javo Consultancy Ltd
 
-<!--
-**vvohanka-consultancy/vvohanka-consultancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub profile of **Javo Consultancy Ltd**. We specialise in remote-first ISO consultancy for SMEs, delivering lean, certification-ready management systems that support business growth rather than hinder it. 
 
-Here are some ideas to get you started:
+### The "Auditor's Eye" Methodology
+Don't just guess whether you are compliant; know for sure. With our unique "Auditor's Eye" approach, we simulate the exact scrutiny you will face on certification day. We interpret the "grey areas" of compliance and identify exactly where systems fail *before* your final audit, ensuring there are no surprises and your operation is fully audit-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Expertise
+*   **Information Security & Privacy:** ISO/IEC 27001 & ISO/IEC 27701
+*   **AI Governance:** ISO/IEC 42001
+*   **Business Continuity & Safety:** ISO 22301, ISO 14001, ISO 45001
+*   **Third-Party Risk & Fintech:** SOW Verification & Regulatory Framework Alignment
+
+🌐 **Website:** [https://www.javoconsultancyltd.com/](https://www.javoconsultancyltd.com/)
