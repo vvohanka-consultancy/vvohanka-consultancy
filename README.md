@@ -47,4 +47,91 @@ One clause-level Lead Auditor whitepaper and downloadable engineering/compliance
 | **4** | w/c 14 Dec 2026 | ISO 27001 | Closing Major Non-Conformities: Engineering True Root Cause Analysis Under Clause 10.2 (`iso27001-major-nc-root-cause`) | Scheduled |
 | **5** | w/c 21 Dec 2026 | ISO 27701 | ISO/IEC 27701:2025 Standalone Architecture: Transition Blueprint & What Changes Under ISO/IEC 27706:2025 (`iso27701-2025-standalone-transition`) | Scheduled |
 | **6** | w/c 28 Dec 2026 | UKAS / CB | 2027 Buyer's Technical Guide to UKAS Accreditation: ISO/IEC 17021-1, 27706:2025 & 42006:2025 (`ukas-accreditation-buyer-guide`) | Scheduled |
-| **7** | w/c 4 Jan 2027 | ISO 27701 | Auditing PII Controller vs.
+| **7** | w/c 4 Jan 2027 | ISO 27701 | Auditing PII Controller vs. PII Processor Boundaries & Art. 28 Sub-Processor Chains in Multi-Tenant SaaS (`iso27701-controller-processor-saas`) | Scheduled |
+| **8** | w/c 11 Jan 2027 | ISO 27701 | DPIA-to-Engineering Traceability & Lawful HR / Background Screening Privacy Controls (`iso27701-dpia-hr-screening-controls`) | Scheduled |
+| **9** | w/c 18 Jan 2027 | ISO 27701 | Proving PII Deletion, Non-Production Data Masking & Cross-Border Transfers in Live Systems (`iso27701-pii-lifecycle-deletion-transfers`) | Scheduled |
+| **10** | w/c 25 Jan 2027 | ISO 42001 | Scoping an AIMS: Mapping ISO/IEC 22989 AI Roles and Defending Your 38-Control ISO 42001 SoA (`iso42001-roles-and-soa-scoping`) | Scheduled |
+| **11** | w/c 1 Feb 2027 | ISO 42001 | Operationalising the AI System Impact Assessment (AIIA): From Clause 6.1.4 to Auditable Decision Trails (`iso42001-aiia-evidence-guide`) | Scheduled |
+| **12** | w/c 8 Feb 2027 | ISO 42001 | Auditing the ML Lifecycle & Data Provenance: What Lead Auditors Sample Across Annex A.6 and A.7 (`iso42001-ml-lifecycle-data-provenance`) | Scheduled |
+| **13** | w/c 15 Feb 2027 | ISO 42001 | Governing Third-Party LLMs, Agentic AI & EU AI Act Transparency (Article 50) Under ISO 42001 (`iso42001-third-party-llms-agentic-ai`) | Scheduled |
+| **14** | w/c 22 Feb 2027 | Integrated IMS | Building a Unified Digital Trust IMS: Integrating ISO 27001:2022, ISO 27701:2025 & ISO 42001 Without Triple Paperwork (`ims-27001-27701-42001-blueprint`) | Scheduled |
+| **15** | w/c 1 Mar 2027 | Integrated IMS | Auditing Shadow AI, Unauthorised PII Leakage & Non-Compliant Code Libraries in Engineering Pipelines (`shadow-ai-pii-supply-chain-audit`) | Scheduled |
+| **16** | w/c 8 Mar 2027 | UKAS Assurance | Surviving Remote UKAS Stage 2 & Annual Surveillance Audits: Designing "Retrieval-Ready" Evidence Repositories (`remote-ukas-stage2-evidence-design`) | Scheduled |
+
+---
+
+## Leadership Credentials
+
+* **Vojtech George Vohanka — Managing Director:** IRCA Certified Lead Auditor (ISO 9001); Lead Auditor expertise across ISO/IEC 27001, ISO/IEC 27701, and ISO/IEC 42001; Internal Lead Auditor for ISO 14001, ISO 45001, ISO 27001, and ISO 22301; MBA; BA in Security and Risk Management; Professional Member of ISACA (Member ID: `2333091`).
+* **Jaroslava Vohankova — Operations Director:** IRCA Certified Lead Auditor (ISO 14001 & ISO 45001); External Lead Auditor (SSIP); Lead Auditor expertise across ISO/IEC 27001, ISO/IEC 27701, and ISO/IEC 42001; Internal Lead Auditor (ISO 9001 & ISO/IEC 27001); Level 6 Diploma in Applied Health & Safety; Level 5 Diploma in Fire Safety; Certified Member of IOSH; Full Member of IFSM.
+
+---
+
+## Delivery Model, Independence & Contact
+
+* **100% Remote Global Delivery:** Serving organisations across the UK, Europe, the US, and international markets.
+* **Flexible Scheduling:** Live audit and consultation sessions are primarily delivered during evenings and weekends (UK time, GMT/BST) to eliminate daytime operational disruption.
+* **Transparent Fixed-Price Contracts:** Clear upfront project fees for defined deliverables, with a **5% bundle saving** when combining annual internal audits with pre-certification readiness checks or document reviews.
+* **Strict Impartiality Policy:** To protect audit integrity and professional independence, Javo Consultancy Ltd does not provide consultancy services to organisations certified by our directors' current full-time employer. Please confirm your Certification Body upon initial contact.
+* **Governance & Data Protection:** ICO Data Protection Registration `ZA235697` | Registered in England and Wales (`10616318`).
+
+**Website:** https://www.javoconsultancyltd.com/  
+**Services:** https://www.javoconsultancyltd.com/services  
+**Email:** v.vohanka@javoconsultancyltd.com  
+**Telephone:** +44 (0) 7534 662808
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
